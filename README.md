@@ -1,8 +1,8 @@
 # Laboratório de Desafio: Exercício de Bash Shell Scripting 🛠️🎯
 
-<img src="imagem/Projeto.png">
-
 Para finalizar o módulo de Linux no AWS Restart, realizei este laboratório-desafio como parte do processo de conclusão e preparação para os próximos passos. ⚡
+
+<img src="imagem/Projeto.png">
 
 ## 🎯 Objetivo do Desafio
 
